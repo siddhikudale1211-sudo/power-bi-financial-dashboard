@@ -1,0 +1,1001 @@
+transaction_id,date,account_type,category,amount,currency,payment_method,region
+TXN000001,2024-08-16,Savings,Healthcare,6129.85,USD,Digital Wallet,South India
+TXN000002,2024-06-27,Credit,Groceries,754.63,USD,Credit Card,North India
+TXN000003,2025-02-11,Credit,Travel,11235.73,EUR,UPI,East India
+TXN000004,2026-05-15,Business,Healthcare,3895.43,EUR,UPI,South India
+TXN000005,2026-02-17,Savings,Entertainment,21188.88,AUD,Debit Card,North India
+TXN000006,2026-07-29,Savings,Education,1979.22,EUR,Digital Wallet,North America
+TXN000007,2025-01-28,Savings,Groceries,16534.97,EUR,UPI,West India
+TXN000008,2024-07-25,Credit,Healthcare,11340.72,EUR,Credit Card,North America
+TXN000009,2025-12-28,Checking,Healthcare,17548.49,INR,Cash,East India
+TXN000010,2025-05-16,Checking,Salary,9492.59,AUD,Credit Card,North America
+TXN000011,2024-04-24,Checking,Groceries,20128.09,GBP,Debit Card,South India
+TXN000012,2025-03-08,Business,Travel,16389.41,GBP,Digital Wallet,Asia-Pacific
+TXN000013,2024-10-19,Business,Shopping,6173.22,AUD,Cash,Central India
+TXN000014,2026-05-27,Credit,Entertainment,5490.83,USD,Cash,Asia-Pacific
+TXN000015,2024-07-05,Savings,Utilities,3829.5,USD,Digital Wallet,Europe
+TXN000016,2024-05-10,Credit,Education,14901.25,GBP,Cash,Central India
+TXN000017,2024-01-24,Savings,Dining,18774.44,EUR,UPI,Central India
+TXN000018,2026-06-09,Checking,Salary,91.1,EUR,Cash,East India
+TXN000019,2024-08-05,Business,Dining,15228.17,USD,Debit Card,East India
+TXN000020,2024-01-02,Business,Salary,496.72,EUR,Debit Card,West India
+TXN000021,2024-04-28,Checking,Transfer,23674.27,INR,Digital Wallet,Asia-Pacific
+TXN000022,2024-05-21,Checking,Shopping,16497.17,AUD,Credit Card,Central India
+TXN000023,2026-05-16,Checking,Dining,18884.08,USD,Digital Wallet,Central India
+TXN000024,2026-03-28,Business,Salary,22491.36,GBP,UPI,West India
+TXN000025,2025-04-05,Savings,Entertainment,535.65,AUD,Credit Card,West India
+TXN000026,2024-01-15,Savings,Groceries,5731.26,INR,Debit Card,South India
+TXN000027,2025-05-02,Business,Salary,5363.78,USD,Digital Wallet,Asia-Pacific
+TXN000028,2025-05-12,Credit,Education,4768.34,INR,Digital Wallet,Europe
+TXN000029,2025-12-26,Credit,Education,11680.95,INR,Digital Wallet,South India
+TXN000030,2024-05-04,Credit,Entertainment,20016.81,INR,Credit Card,West India
+TXN000031,2025-01-24,Credit,Shopping,10552.82,EUR,Bank Transfer,West India
+TXN000032,2024-06-03,Credit,Dining,2456.74,AUD,UPI,South India
+TXN000033,2025-04-29,Checking,Education,12146.17,USD,Bank Transfer,North India
+TXN000034,2024-12-03,Credit,Groceries,24632.87,EUR,Bank Transfer,Central India
+TXN000035,2026-05-16,Credit,Shopping,4755.55,USD,UPI,North India
+TXN000036,2025-10-04,Savings,Groceries,14608.6,AUD,Cash,East India
+TXN000037,2024-04-26,Savings,Shopping,1722.35,INR,Digital Wallet,West India
+TXN000038,2026-04-06,Savings,Transfer,6162.92,AUD,UPI,South India
+TXN000039,2026-05-08,Business,Healthcare,5114.44,EUR,Credit Card,Central India
+TXN000040,2026-03-21,Checking,Healthcare,11436.04,INR,UPI,Asia-Pacific
+TXN000041,2024-07-23,Savings,Dining,5336.73,EUR,Credit Card,North America
+TXN000042,2024-05-20,Checking,Entertainment,7131.83,GBP,Cash,Central India
+TXN000043,2024-01-17,Business,Utilities,23473.86,USD,Debit Card,South India
+TXN000044,2024-08-07,Checking,Healthcare,7051.09,USD,Digital Wallet,North America
+TXN000045,2025-02-20,Business,Dining,12218.41,INR,UPI,Europe
+TXN000046,2025-07-20,Savings,Groceries,8345.58,USD,Digital Wallet,Central India
+TXN000047,2024-11-26,Credit,Dining,17644.63,AUD,UPI,South India
+TXN000048,2024-06-03,Checking,Dining,910.34,EUR,Cash,East India
+TXN000049,2026-05-30,Checking,Groceries,7713.38,INR,Debit Card,West India
+TXN000050,2025-05-26,Savings,Entertainment,19505.1,GBP,Cash,East India
+TXN000051,2025-04-29,Checking,Shopping,22036.59,INR,Credit Card,North America
+TXN000052,2026-04-23,Checking,Healthcare,3988.35,INR,Bank Transfer,North India
+TXN000053,2026-08-21,Checking,Travel,20416.5,GBP,Debit Card,Central India
+TXN000054,2025-04-11,Checking,Groceries,16504.23,GBP,Debit Card,Central India
+TXN000055,2024-05-22,Business,Entertainment,16040.63,GBP,Digital Wallet,North America
+TXN000056,2024-02-26,Savings,Healthcare,4472.41,EUR,UPI,South India
+TXN000057,2026-06-08,Business,Entertainment,10915.48,AUD,UPI,Europe
+TXN000058,2025-01-24,Business,Groceries,17722.54,INR,Cash,West India
+TXN000059,2026-01-15,Credit,Utilities,23722.37,EUR,Cash,North America
+TXN000060,2024-09-12,Business,Dining,7739.02,GBP,Debit Card,Europe
+TXN000061,2025-08-28,Checking,Travel,10516.95,GBP,Digital Wallet,East India
+TXN000062,2025-09-08,Credit,Dining,20844.79,EUR,Debit Card,West India
+TXN000063,2026-05-30,Business,Salary,11050.23,USD,Cash,Asia-Pacific
+TXN000064,2024-12-13,Savings,Healthcare,12891.15,AUD,Debit Card,South India
+TXN000065,2025-04-26,Business,Travel,20166.01,USD,UPI,North India
+TXN000066,2025-05-16,Credit,Transfer,21244.94,INR,Bank Transfer,Europe
+TXN000067,2025-02-02,Credit,Salary,9997.33,USD,Digital Wallet,North India
+TXN000068,2024-08-06,Credit,Travel,4405.41,AUD,Bank Transfer,North India
+TXN000069,2025-05-25,Savings,Salary,3342.14,GBP,Digital Wallet,North America
+TXN000070,2026-06-25,Credit,Dining,11153.38,USD,Digital Wallet,Asia-Pacific
+TXN000071,2026-07-10,Business,Travel,20998.17,EUR,Cash,Asia-Pacific
+TXN000072,2025-05-04,Business,Salary,1946.31,EUR,Credit Card,Central India
+TXN000073,2025-11-18,Business,Dining,2023.64,USD,Credit Card,Europe
+TXN000074,2024-11-08,Checking,Utilities,10377.55,EUR,Cash,Asia-Pacific
+TXN000075,2026-05-01,Savings,Travel,20823.95,GBP,Cash,North India
+TXN000076,2026-02-18,Credit,Groceries,23569.11,EUR,Bank Transfer,Europe
+TXN000077,2025-03-27,Credit,Travel,6830.65,GBP,UPI,Europe
+TXN000078,2025-11-19,Credit,Shopping,21014.24,USD,Cash,North India
+TXN000079,2026-03-17,Savings,Utilities,16072.31,USD,Bank Transfer,East India
+TXN000080,2024-04-12,Business,Education,8190.54,GBP,Debit Card,North America
+TXN000081,2026-02-15,Business,Education,6314.27,INR,Bank Transfer,North India
+TXN000082,2024-04-16,Business,Travel,16257.1,INR,UPI,West India
+TXN000083,2025-02-12,Savings,Transfer,3818.03,USD,Bank Transfer,South India
+TXN000084,2025-03-22,Credit,Healthcare,19174.78,USD,Cash,South India
+TXN000085,2024-12-01,Business,Utilities,14471.33,EUR,Cash,Europe
+TXN000086,2026-03-23,Checking,Utilities,14806.53,USD,UPI,Central India
+TXN000087,2024-09-04,Savings,Entertainment,13323.3,EUR,UPI,North America
+TXN000088,2024-01-26,Credit,Salary,2647.42,EUR,Digital Wallet,Asia-Pacific
+TXN000089,2024-11-09,Credit,Shopping,18347.54,EUR,Cash,Asia-Pacific
+TXN000090,2026-08-10,Credit,Transfer,6717.2,USD,UPI,Central India
+TXN000091,2026-07-12,Checking,Salary,14250.54,GBP,Debit Card,North India
+TXN000092,2026-10-09,Business,Shopping,12193.87,EUR,Debit Card,North America
+TXN000093,2025-07-26,Business,Dining,263.68,USD,UPI,West India
+TXN000094,2026-04-12,Credit,Dining,18956.53,GBP,Digital Wallet,Asia-Pacific
+TXN000095,2026-07-06,Savings,Utilities,7362.95,GBP,Digital Wallet,West India
+TXN000096,2025-09-19,Business,Salary,13841.29,EUR,Bank Transfer,North America
+TXN000097,2025-12-21,Credit,Healthcare,7672.51,USD,UPI,West India
+TXN000098,2025-10-08,Savings,Dining,23772.43,USD,Credit Card,West India
+TXN000099,2026-09-18,Business,Transfer,24415.41,AUD,Cash,Central India
+TXN000100,2024-07-24,Checking,Healthcare,5694.8,USD,Debit Card,North India
+TXN000101,2024-09-16,Business,Groceries,24357.63,AUD,Debit Card,East India
+TXN000102,2026-10-02,Savings,Groceries,14355.86,GBP,Bank Transfer,Asia-Pacific
+TXN000103,2025-11-28,Checking,Groceries,6319.43,GBP,UPI,South India
+TXN000104,2026-03-31,Credit,Utilities,14429.76,INR,Credit Card,East India
+TXN000105,2025-09-14,Savings,Travel,2970.1,GBP,Cash,West India
+TXN000106,2026-02-18,Credit,Salary,7440.85,AUD,Bank Transfer,Central India
+TXN000107,2024-05-03,Savings,Travel,15641.62,EUR,Digital Wallet,South India
+TXN000108,2024-11-17,Checking,Shopping,13804.29,USD,UPI,Europe
+TXN000109,2026-07-11,Credit,Healthcare,825.67,EUR,Digital Wallet,Central India
+TXN000110,2026-07-18,Savings,Travel,23098.54,AUD,Digital Wallet,West India
+TXN000111,2026-05-20,Savings,Dining,5627.99,USD,Debit Card,East India
+TXN000112,2024-05-26,Savings,Shopping,19817.79,AUD,Digital Wallet,Central India
+TXN000113,2026-06-18,Savings,Salary,17220.06,GBP,Debit Card,Asia-Pacific
+TXN000114,2026-06-15,Savings,Transfer,1006.12,GBP,Digital Wallet,North America
+TXN000115,2025-05-27,Savings,Utilities,5730.82,AUD,Cash,North India
+TXN000116,2025-07-05,Savings,Shopping,11767.82,GBP,Debit Card,East India
+TXN000117,2026-06-11,Credit,Utilities,11755.56,GBP,Debit Card,North America
+TXN000118,2024-08-02,Checking,Entertainment,10297.01,GBP,Debit Card,Europe
+TXN000119,2024-03-16,Credit,Utilities,7869.78,EUR,UPI,Europe
+TXN000120,2024-01-03,Credit,Education,1364.56,AUD,Debit Card,Asia-Pacific
+TXN000121,2026-06-24,Savings,Travel,6683.74,USD,Debit Card,Asia-Pacific
+TXN000122,2026-09-19,Savings,Groceries,24328.94,AUD,Credit Card,East India
+TXN000123,2025-09-28,Savings,Dining,10205.69,USD,UPI,Asia-Pacific
+TXN000124,2024-08-28,Checking,Salary,23317.0,EUR,Cash,Central India
+TXN000125,2026-04-30,Credit,Salary,6100.84,AUD,Credit Card,Europe
+TXN000126,2025-01-25,Checking,Utilities,6913.42,GBP,Debit Card,Central India
+TXN000127,2024-01-06,Business,Healthcare,20938.52,AUD,Digital Wallet,Asia-Pacific
+TXN000128,2024-10-31,Credit,Dining,12113.69,EUR,Cash,Europe
+TXN000129,2026-07-21,Business,Travel,24519.56,USD,Cash,Europe
+TXN000130,2025-04-23,Credit,Groceries,7961.23,GBP,Digital Wallet,Europe
+TXN000131,2026-03-01,Checking,Salary,24120.96,USD,Cash,North America
+TXN000132,2024-07-24,Credit,Utilities,13153.52,GBP,UPI,East India
+TXN000133,2026-04-19,Checking,Utilities,11742.57,EUR,Debit Card,Europe
+TXN000134,2024-06-13,Business,Dining,9506.43,EUR,Digital Wallet,Asia-Pacific
+TXN000135,2024-03-14,Savings,Travel,15782.71,EUR,Credit Card,South India
+TXN000136,2026-06-07,Savings,Utilities,11097.53,EUR,UPI,North India
+TXN000137,2025-10-26,Savings,Healthcare,8968.0,GBP,Credit Card,West India
+TXN000138,2026-04-23,Checking,Shopping,4384.98,AUD,Bank Transfer,West India
+TXN000139,2026-10-16,Checking,Travel,11534.14,EUR,Bank Transfer,Central India
+TXN000140,2024-01-20,Credit,Healthcare,16943.5,USD,UPI,Asia-Pacific
+TXN000141,2025-12-08,Business,Education,17260.93,GBP,Debit Card,West India
+TXN000142,2026-02-26,Credit,Utilities,5937.77,AUD,Debit Card,Central India
+TXN000143,2025-08-27,Savings,Education,6869.26,AUD,Digital Wallet,North India
+TXN000144,2026-10-14,Business,Travel,15180.55,EUR,Credit Card,West India
+TXN000145,2025-05-28,Checking,Utilities,22586.06,INR,Debit Card,Asia-Pacific
+TXN000146,2024-03-09,Business,Shopping,2262.43,EUR,Debit Card,Europe
+TXN000147,2024-12-25,Checking,Shopping,19664.96,EUR,Cash,Central India
+TXN000148,2024-12-02,Business,Salary,24184.93,EUR,Digital Wallet,North America
+TXN000149,2024-08-23,Credit,Utilities,3527.52,USD,Digital Wallet,Europe
+TXN000150,2026-01-19,Savings,Education,357.83,AUD,UPI,Asia-Pacific
+TXN000151,2026-01-24,Business,Transfer,9531.83,EUR,UPI,West India
+TXN000152,2026-08-23,Savings,Transfer,22107.03,AUD,Debit Card,West India
+TXN000153,2024-05-09,Credit,Healthcare,16234.49,INR,Credit Card,North India
+TXN000154,2024-03-17,Business,Salary,2911.85,USD,Cash,East India
+TXN000155,2026-03-06,Credit,Entertainment,16765.45,AUD,Bank Transfer,East India
+TXN000156,2026-04-29,Savings,Salary,15395.15,EUR,UPI,North America
+TXN000157,2025-03-20,Credit,Salary,23764.37,EUR,UPI,North America
+TXN000158,2026-01-04,Savings,Education,6904.28,INR,Bank Transfer,South India
+TXN000159,2025-03-10,Savings,Groceries,19672.0,USD,Credit Card,West India
+TXN000160,2024-05-20,Checking,Transfer,5406.62,USD,Debit Card,East India
+TXN000161,2024-01-06,Business,Shopping,24688.31,AUD,Debit Card,East India
+TXN000162,2024-08-13,Savings,Shopping,381.36,USD,Cash,North America
+TXN000163,2024-02-02,Checking,Healthcare,1319.45,GBP,Cash,South India
+TXN000164,2024-05-10,Credit,Salary,19452.65,AUD,Cash,South India
+TXN000165,2026-07-14,Checking,Transfer,1093.69,AUD,Debit Card,Asia-Pacific
+TXN000166,2024-03-04,Savings,Salary,21183.99,GBP,Digital Wallet,South India
+TXN000167,2026-10-01,Credit,Utilities,22482.68,EUR,Cash,East India
+TXN000168,2024-05-14,Checking,Healthcare,15611.69,AUD,Cash,North America
+TXN000169,2026-02-19,Business,Salary,12643.72,GBP,UPI,South India
+TXN000170,2025-03-16,Credit,Salary,22203.39,GBP,Debit Card,Asia-Pacific
+TXN000171,2026-03-27,Credit,Utilities,7820.58,EUR,Digital Wallet,Central India
+TXN000172,2026-02-05,Checking,Salary,1687.66,INR,UPI,Europe
+TXN000173,2024-07-16,Business,Shopping,13913.7,AUD,Cash,North America
+TXN000174,2024-09-07,Credit,Entertainment,21841.45,GBP,Digital Wallet,North India
+TXN000175,2025-08-12,Business,Entertainment,2598.98,AUD,Credit Card,East India
+TXN000176,2026-09-14,Checking,Utilities,8759.35,AUD,Debit Card,South India
+TXN000177,2025-07-24,Checking,Education,21130.43,AUD,Cash,North India
+TXN000178,2025-07-01,Savings,Shopping,6839.03,EUR,Debit Card,North America
+TXN000179,2024-01-13,Checking,Shopping,14162.36,GBP,UPI,East India
+TXN000180,2024-03-03,Savings,Dining,5386.17,GBP,Bank Transfer,North America
+TXN000181,2024-11-18,Business,Healthcare,18042.68,AUD,Cash,South India
+TXN000182,2024-04-17,Checking,Shopping,18863.35,INR,Digital Wallet,South India
+TXN000183,2025-07-11,Credit,Education,12146.69,GBP,Bank Transfer,Central India
+TXN000184,2025-03-17,Savings,Entertainment,10753.54,EUR,Digital Wallet,Asia-Pacific
+TXN000185,2025-09-23,Savings,Travel,9887.63,AUD,UPI,North India
+TXN000186,2025-02-22,Business,Travel,19186.06,EUR,Debit Card,North America
+TXN000187,2024-09-02,Savings,Salary,18677.88,USD,Credit Card,Europe
+TXN000188,2025-04-16,Business,Utilities,9932.81,INR,Bank Transfer,North India
+TXN000189,2026-07-30,Savings,Entertainment,14398.22,AUD,Bank Transfer,Europe
+TXN000190,2025-08-15,Savings,Education,531.21,EUR,Credit Card,Asia-Pacific
+TXN000191,2026-01-11,Savings,Education,21113.66,USD,Bank Transfer,Europe
+TXN000192,2024-06-10,Credit,Healthcare,18647.66,USD,Debit Card,East India
+TXN000193,2024-06-05,Savings,Dining,12753.7,EUR,Debit Card,East India
+TXN000194,2025-04-28,Savings,Shopping,6406.65,USD,Cash,East India
+TXN000195,2024-06-03,Checking,Salary,11604.19,AUD,Cash,Asia-Pacific
+TXN000196,2025-10-23,Business,Shopping,10999.67,GBP,Bank Transfer,Central India
+TXN000197,2025-07-16,Savings,Entertainment,12688.35,EUR,Bank Transfer,Asia-Pacific
+TXN000198,2024-03-18,Savings,Entertainment,20794.1,INR,Digital Wallet,South India
+TXN000199,2026-02-26,Credit,Transfer,13862.37,INR,Bank Transfer,West India
+TXN000200,2025-10-20,Credit,Dining,3780.02,INR,Bank Transfer,South India
+TXN000201,2025-12-04,Savings,Dining,16156.72,INR,Credit Card,Asia-Pacific
+TXN000202,2026-06-18,Checking,Entertainment,9327.57,EUR,Bank Transfer,Europe
+TXN000203,2025-11-23,Savings,Entertainment,1657.14,INR,Cash,Europe
+TXN000204,2025-08-04,Business,Transfer,21833.26,EUR,UPI,East India
+TXN000205,2025-12-17,Business,Education,3232.5,INR,Debit Card,Europe
+TXN000206,2025-11-03,Checking,Dining,2345.39,GBP,Cash,North America
+TXN000207,2024-02-07,Business,Healthcare,4514.77,USD,Debit Card,Asia-Pacific
+TXN000208,2025-01-28,Checking,Shopping,3882.08,EUR,UPI,North India
+TXN000209,2025-11-20,Checking,Transfer,9424.23,USD,Credit Card,East India
+TXN000210,2026-06-15,Savings,Education,9113.84,USD,Bank Transfer,Central India
+TXN000211,2026-07-08,Checking,Dining,5986.82,GBP,Credit Card,North America
+TXN000212,2026-06-21,Credit,Healthcare,19455.32,AUD,Cash,Europe
+TXN000213,2024-11-27,Checking,Transfer,3468.58,EUR,UPI,Asia-Pacific
+TXN000214,2026-01-30,Savings,Dining,21280.64,EUR,UPI,East India
+TXN000215,2025-07-12,Credit,Dining,3692.24,GBP,UPI,West India
+TXN000216,2026-07-12,Business,Groceries,10378.27,GBP,Cash,North America
+TXN000217,2025-04-27,Credit,Utilities,9379.07,INR,Debit Card,South India
+TXN000218,2025-11-17,Checking,Shopping,967.2,GBP,Digital Wallet,East India
+TXN000219,2026-08-18,Credit,Transfer,141.23,INR,UPI,Central India
+TXN000220,2025-03-17,Checking,Dining,23506.25,AUD,Cash,Europe
+TXN000221,2024-08-15,Business,Travel,7535.77,INR,Credit Card,Europe
+TXN000222,2026-07-25,Savings,Utilities,20918.83,GBP,Cash,North India
+TXN000223,2025-05-10,Checking,Healthcare,10736.68,AUD,Debit Card,West India
+TXN000224,2026-05-03,Checking,Utilities,13091.88,EUR,UPI,North India
+TXN000225,2026-03-10,Credit,Groceries,15895.41,EUR,Debit Card,North India
+TXN000226,2026-01-01,Savings,Entertainment,6035.74,INR,Cash,North America
+TXN000227,2024-09-30,Savings,Entertainment,13654.88,USD,Digital Wallet,Asia-Pacific
+TXN000228,2026-09-07,Checking,Shopping,1586.88,GBP,UPI,Central India
+TXN000229,2025-02-16,Savings,Travel,22145.9,EUR,Debit Card,Europe
+TXN000230,2026-08-27,Business,Groceries,18834.74,USD,Debit Card,North America
+TXN000231,2024-04-07,Business,Healthcare,3120.63,EUR,Bank Transfer,Europe
+TXN000232,2026-06-19,Credit,Entertainment,24343.35,GBP,Digital Wallet,Asia-Pacific
+TXN000233,2026-01-22,Business,Utilities,18179.76,INR,Bank Transfer,East India
+TXN000234,2025-08-24,Business,Utilities,2010.92,EUR,Debit Card,Asia-Pacific
+TXN000235,2026-05-22,Checking,Salary,8795.16,INR,Digital Wallet,North America
+TXN000236,2026-06-09,Business,Groceries,1885.28,GBP,Debit Card,East India
+TXN000237,2024-03-04,Checking,Transfer,16955.44,GBP,UPI,East India
+TXN000238,2024-05-17,Checking,Entertainment,9060.14,AUD,UPI,East India
+TXN000239,2026-07-10,Business,Entertainment,11104.04,INR,Cash,East India
+TXN000240,2026-01-21,Credit,Entertainment,16242.52,USD,UPI,North India
+TXN000241,2025-01-16,Credit,Dining,9680.81,AUD,UPI,Central India
+TXN000242,2025-06-17,Credit,Travel,24909.16,EUR,Digital Wallet,Asia-Pacific
+TXN000243,2025-02-13,Savings,Shopping,21322.13,GBP,Credit Card,Asia-Pacific
+TXN000244,2024-06-28,Business,Entertainment,17741.42,AUD,Cash,Central India
+TXN000245,2025-09-06,Checking,Shopping,19844.47,AUD,Credit Card,South India
+TXN000246,2025-02-15,Checking,Travel,19761.42,INR,Debit Card,North America
+TXN000247,2026-08-15,Checking,Transfer,22107.32,INR,Debit Card,Europe
+TXN000248,2026-09-07,Credit,Education,20585.25,INR,Credit Card,North America
+TXN000249,2024-05-31,Credit,Salary,17005.92,EUR,Credit Card,East India
+TXN000250,2024-09-21,Credit,Dining,22768.7,INR,UPI,East India
+TXN000251,2025-09-14,Checking,Shopping,8073.29,USD,Debit Card,Central India
+TXN000252,2024-06-10,Business,Travel,15880.08,AUD,Debit Card,East India
+TXN000253,2025-09-12,Savings,Dining,16028.28,AUD,Cash,East India
+TXN000254,2024-12-16,Business,Transfer,1039.45,INR,UPI,North India
+TXN000255,2025-06-26,Checking,Transfer,10420.5,INR,Bank Transfer,Central India
+TXN000256,2025-09-10,Credit,Travel,20119.16,GBP,Debit Card,Asia-Pacific
+TXN000257,2024-05-29,Savings,Shopping,10995.74,GBP,Bank Transfer,West India
+TXN000258,2025-11-27,Checking,Entertainment,21538.51,EUR,Digital Wallet,North America
+TXN000259,2026-03-27,Checking,Entertainment,12879.35,INR,Debit Card,West India
+TXN000260,2026-08-13,Savings,Healthcare,11245.4,USD,UPI,North India
+TXN000261,2025-08-17,Credit,Transfer,10459.19,USD,Debit Card,North America
+TXN000262,2025-01-23,Checking,Salary,24899.28,GBP,Bank Transfer,Central India
+TXN000263,2026-10-15,Savings,Utilities,23631.37,AUD,Bank Transfer,West India
+TXN000264,2025-03-16,Business,Groceries,1273.0,GBP,Cash,Asia-Pacific
+TXN000265,2025-08-08,Savings,Utilities,10778.88,EUR,Digital Wallet,North America
+TXN000266,2026-04-05,Business,Groceries,10020.53,AUD,Cash,West India
+TXN000267,2026-01-12,Business,Utilities,9664.86,GBP,Cash,Central India
+TXN000268,2024-08-31,Checking,Utilities,9853.65,EUR,Cash,North America
+TXN000269,2024-10-22,Checking,Transfer,12732.97,AUD,UPI,North India
+TXN000270,2024-03-20,Checking,Entertainment,20101.11,AUD,Bank Transfer,East India
+TXN000271,2024-10-13,Business,Transfer,7970.07,GBP,Cash,Central India
+TXN000272,2025-11-19,Credit,Transfer,7501.77,INR,Debit Card,North America
+TXN000273,2024-08-12,Credit,Transfer,7698.87,INR,Cash,Asia-Pacific
+TXN000274,2025-06-27,Checking,Groceries,14592.25,USD,Cash,Europe
+TXN000275,2024-10-29,Checking,Groceries,14318.53,INR,Credit Card,North India
+TXN000276,2026-06-22,Business,Education,3794.27,USD,Bank Transfer,Asia-Pacific
+TXN000277,2024-05-07,Checking,Dining,5191.47,EUR,Digital Wallet,Asia-Pacific
+TXN000278,2026-02-10,Business,Shopping,11496.99,AUD,Debit Card,North America
+TXN000279,2025-06-25,Credit,Travel,23933.86,EUR,Cash,Central India
+TXN000280,2025-04-05,Business,Healthcare,17625.47,GBP,Debit Card,Asia-Pacific
+TXN000281,2025-12-15,Business,Healthcare,3055.63,AUD,Bank Transfer,Europe
+TXN000282,2025-12-07,Checking,Healthcare,1061.24,INR,Debit Card,Asia-Pacific
+TXN000283,2025-06-09,Credit,Travel,5059.68,AUD,Debit Card,Central India
+TXN000284,2024-10-08,Savings,Transfer,18524.87,USD,Credit Card,North India
+TXN000285,2025-04-07,Checking,Groceries,2513.95,EUR,Digital Wallet,Asia-Pacific
+TXN000286,2024-07-24,Checking,Groceries,24113.32,USD,Bank Transfer,Asia-Pacific
+TXN000287,2026-09-04,Checking,Healthcare,8035.98,INR,UPI,West India
+TXN000288,2024-03-17,Checking,Education,22057.3,USD,UPI,Europe
+TXN000289,2026-10-11,Checking,Healthcare,21919.81,INR,Debit Card,South India
+TXN000290,2025-11-17,Business,Salary,24727.6,AUD,Cash,Asia-Pacific
+TXN000291,2024-10-01,Credit,Healthcare,4828.36,INR,Debit Card,East India
+TXN000292,2026-07-28,Business,Shopping,361.96,EUR,Debit Card,West India
+TXN000293,2024-12-25,Credit,Education,12886.86,INR,Bank Transfer,South India
+TXN000294,2025-01-13,Checking,Salary,8096.81,USD,UPI,Central India
+TXN000295,2026-02-24,Checking,Salary,18846.38,EUR,Debit Card,North India
+TXN000296,2025-06-19,Business,Travel,1562.49,INR,Bank Transfer,Central India
+TXN000297,2024-11-23,Credit,Dining,23078.42,EUR,Digital Wallet,South India
+TXN000298,2025-08-27,Business,Transfer,5529.02,USD,Bank Transfer,East India
+TXN000299,2026-07-20,Business,Education,17551.5,GBP,Cash,West India
+TXN000300,2025-05-21,Savings,Dining,11174.23,EUR,UPI,South India
+TXN000301,2024-05-06,Checking,Transfer,13421.14,USD,Debit Card,Asia-Pacific
+TXN000302,2024-08-26,Checking,Transfer,12225.81,AUD,Bank Transfer,North India
+TXN000303,2026-07-17,Checking,Dining,10391.46,AUD,UPI,Asia-Pacific
+TXN000304,2025-09-23,Savings,Education,6368.89,INR,Digital Wallet,West India
+TXN000305,2024-05-29,Savings,Education,8619.78,INR,Cash,North India
+TXN000306,2024-05-21,Credit,Groceries,7184.4,USD,Credit Card,Europe
+TXN000307,2026-02-05,Credit,Salary,21741.81,GBP,Bank Transfer,South India
+TXN000308,2024-09-29,Business,Utilities,4470.06,AUD,Bank Transfer,East India
+TXN000309,2025-04-01,Savings,Groceries,24462.48,GBP,Digital Wallet,Europe
+TXN000310,2026-02-15,Checking,Travel,11521.03,USD,Debit Card,West India
+TXN000311,2024-08-19,Savings,Education,15376.93,INR,Credit Card,West India
+TXN000312,2024-05-17,Savings,Transfer,849.07,AUD,Digital Wallet,North India
+TXN000313,2025-05-16,Savings,Education,10979.68,AUD,Credit Card,North India
+TXN000314,2024-10-13,Business,Travel,20396.5,AUD,Debit Card,North America
+TXN000315,2025-04-30,Business,Shopping,24642.53,AUD,Credit Card,Europe
+TXN000316,2025-09-07,Business,Groceries,13922.39,AUD,Digital Wallet,East India
+TXN000317,2026-05-24,Credit,Groceries,24307.53,GBP,Cash,North America
+TXN000318,2026-05-02,Credit,Shopping,7504.21,USD,Cash,Asia-Pacific
+TXN000319,2025-05-08,Checking,Healthcare,21439.96,USD,Bank Transfer,North India
+TXN000320,2026-04-25,Credit,Dining,13254.5,GBP,Credit Card,Central India
+TXN000321,2025-02-20,Business,Utilities,23056.43,EUR,UPI,West India
+TXN000322,2024-04-15,Business,Education,16845.06,AUD,UPI,South India
+TXN000323,2025-01-20,Checking,Salary,5230.14,EUR,Debit Card,North India
+TXN000324,2025-03-09,Checking,Utilities,18674.51,GBP,Credit Card,West India
+TXN000325,2026-03-23,Checking,Dining,8047.16,EUR,Bank Transfer,Asia-Pacific
+TXN000326,2026-01-05,Business,Healthcare,8997.52,GBP,Bank Transfer,South India
+TXN000327,2026-08-19,Business,Travel,9273.92,GBP,UPI,West India
+TXN000328,2024-10-25,Savings,Healthcare,13837.26,AUD,Cash,Europe
+TXN000329,2025-08-27,Checking,Travel,8253.33,GBP,Cash,West India
+TXN000330,2026-10-19,Business,Healthcare,19086.38,GBP,Digital Wallet,Asia-Pacific
+TXN000331,2026-08-01,Checking,Entertainment,4239.95,AUD,Bank Transfer,East India
+TXN000332,2024-04-30,Savings,Utilities,23630.25,INR,UPI,Europe
+TXN000333,2024-10-08,Checking,Utilities,17682.17,INR,Credit Card,Asia-Pacific
+TXN000334,2026-02-03,Savings,Transfer,15946.84,AUD,Bank Transfer,Asia-Pacific
+TXN000335,2024-02-02,Savings,Dining,13795.57,INR,UPI,Central India
+TXN000336,2025-08-10,Savings,Dining,20330.8,GBP,Credit Card,South India
+TXN000337,2024-07-16,Checking,Travel,4806.38,AUD,Debit Card,North America
+TXN000338,2025-07-01,Credit,Utilities,9332.56,GBP,Bank Transfer,West India
+TXN000339,2025-04-07,Business,Utilities,16346.86,INR,UPI,Europe
+TXN000340,2026-02-15,Credit,Dining,11905.37,INR,Digital Wallet,East India
+TXN000341,2024-06-18,Credit,Education,16126.23,EUR,Cash,South India
+TXN000342,2024-03-28,Checking,Travel,22532.81,AUD,Bank Transfer,Central India
+TXN000343,2024-04-05,Savings,Healthcare,22483.8,AUD,Digital Wallet,North India
+TXN000344,2025-01-02,Business,Groceries,24037.12,AUD,Credit Card,Europe
+TXN000345,2024-06-06,Business,Shopping,14103.32,AUD,Bank Transfer,North America
+TXN000346,2026-02-25,Checking,Utilities,12524.81,EUR,UPI,South India
+TXN000347,2026-06-14,Checking,Utilities,8521.41,AUD,Cash,Europe
+TXN000348,2025-10-30,Savings,Healthcare,19590.87,GBP,Bank Transfer,West India
+TXN000349,2025-12-29,Credit,Education,4651.59,AUD,Digital Wallet,Europe
+TXN000350,2024-06-24,Business,Travel,17830.58,INR,Debit Card,East India
+TXN000351,2026-02-17,Checking,Education,7923.79,INR,UPI,North India
+TXN000352,2025-09-23,Credit,Entertainment,19036.05,INR,Credit Card,South India
+TXN000353,2025-01-18,Credit,Salary,13929.06,AUD,Bank Transfer,South India
+TXN000354,2024-02-23,Savings,Entertainment,13859.95,AUD,Cash,North America
+TXN000355,2026-02-27,Savings,Healthcare,10351.11,INR,Digital Wallet,West India
+TXN000356,2024-12-13,Credit,Shopping,3479.61,EUR,Debit Card,Asia-Pacific
+TXN000357,2024-10-25,Savings,Shopping,10872.56,GBP,Debit Card,Asia-Pacific
+TXN000358,2024-06-06,Business,Healthcare,23606.12,GBP,Cash,West India
+TXN000359,2026-07-26,Savings,Shopping,7623.4,GBP,Debit Card,Europe
+TXN000360,2025-11-05,Credit,Entertainment,10771.1,AUD,Credit Card,Central India
+TXN000361,2025-10-18,Checking,Salary,7861.44,GBP,Debit Card,Central India
+TXN000362,2026-10-02,Checking,Entertainment,9407.62,GBP,Debit Card,South India
+TXN000363,2025-02-13,Checking,Dining,682.63,GBP,Digital Wallet,West India
+TXN000364,2026-06-16,Business,Utilities,20475.95,GBP,Digital Wallet,Asia-Pacific
+TXN000365,2024-10-12,Business,Travel,6324.52,USD,Digital Wallet,Europe
+TXN000366,2026-02-11,Savings,Salary,24767.61,GBP,Cash,Europe
+TXN000367,2026-05-06,Savings,Entertainment,17543.84,AUD,Cash,South India
+TXN000368,2024-08-11,Checking,Entertainment,4166.8,AUD,UPI,Europe
+TXN000369,2025-11-10,Credit,Utilities,273.59,EUR,Credit Card,West India
+TXN000370,2026-07-01,Business,Education,11581.95,AUD,Digital Wallet,East India
+TXN000371,2025-12-07,Savings,Salary,2622.69,GBP,UPI,South India
+TXN000372,2024-10-17,Business,Healthcare,8583.24,USD,Cash,Asia-Pacific
+TXN000373,2025-12-14,Credit,Utilities,10959.77,GBP,Debit Card,South India
+TXN000374,2025-09-06,Savings,Utilities,574.4,EUR,Digital Wallet,South India
+TXN000375,2024-12-02,Checking,Dining,4369.59,USD,Debit Card,Europe
+TXN000376,2026-08-04,Checking,Education,15747.71,USD,Digital Wallet,Europe
+TXN000377,2026-03-21,Savings,Transfer,22078.6,GBP,Cash,Europe
+TXN000378,2026-03-07,Savings,Travel,5152.55,INR,Cash,South India
+TXN000379,2025-01-17,Business,Entertainment,4934.89,INR,Debit Card,Asia-Pacific
+TXN000380,2025-10-03,Credit,Transfer,9819.67,INR,Debit Card,North America
+TXN000381,2026-07-26,Checking,Healthcare,22967.88,AUD,UPI,East India
+TXN000382,2025-10-03,Savings,Travel,7641.45,USD,Debit Card,East India
+TXN000383,2026-03-06,Credit,Transfer,3455.3,GBP,Bank Transfer,East India
+TXN000384,2026-09-23,Checking,Dining,4179.97,EUR,Credit Card,East India
+TXN000385,2025-10-06,Credit,Transfer,1349.75,EUR,UPI,Asia-Pacific
+TXN000386,2024-10-06,Checking,Education,24096.09,AUD,Digital Wallet,Asia-Pacific
+TXN000387,2026-04-17,Credit,Education,17756.46,GBP,Bank Transfer,East India
+TXN000388,2024-06-18,Savings,Travel,7309.33,EUR,Credit Card,Central India
+TXN000389,2024-12-10,Credit,Transfer,18565.53,GBP,Cash,South India
+TXN000390,2024-08-21,Business,Dining,20583.84,EUR,Cash,North India
+TXN000391,2026-06-22,Checking,Education,2569.39,USD,Debit Card,North India
+TXN000392,2026-07-10,Business,Entertainment,21556.37,INR,Bank Transfer,South India
+TXN000393,2025-04-30,Checking,Transfer,17231.45,AUD,Digital Wallet,Europe
+TXN000394,2024-12-05,Checking,Travel,20340.11,INR,Cash,North America
+TXN000395,2025-07-29,Checking,Entertainment,24475.21,EUR,Debit Card,Central India
+TXN000396,2024-07-14,Checking,Education,22970.03,EUR,Digital Wallet,East India
+TXN000397,2024-09-28,Checking,Shopping,17787.76,USD,Digital Wallet,Europe
+TXN000398,2026-09-29,Checking,Transfer,15813.73,GBP,Bank Transfer,Asia-Pacific
+TXN000399,2024-06-03,Savings,Education,12895.18,EUR,Digital Wallet,North America
+TXN000400,2026-07-20,Credit,Entertainment,14553.07,INR,Digital Wallet,Asia-Pacific
+TXN000401,2026-01-03,Savings,Dining,9948.92,GBP,Credit Card,Asia-Pacific
+TXN000402,2025-07-03,Business,Healthcare,8450.5,AUD,Credit Card,Asia-Pacific
+TXN000403,2025-12-04,Savings,Groceries,2498.37,GBP,UPI,South India
+TXN000404,2024-11-19,Credit,Salary,26.89,GBP,Credit Card,East India
+TXN000405,2025-09-10,Checking,Healthcare,2342.57,EUR,Debit Card,South India
+TXN000406,2026-01-31,Checking,Groceries,9914.58,EUR,Digital Wallet,West India
+TXN000407,2026-05-29,Savings,Utilities,37.15,GBP,UPI,East India
+TXN000408,2025-04-08,Credit,Groceries,211.48,EUR,UPI,Europe
+TXN000409,2024-09-27,Credit,Utilities,5731.38,INR,Digital Wallet,South India
+TXN000410,2024-07-30,Business,Entertainment,22025.91,USD,Bank Transfer,East India
+TXN000411,2024-10-19,Savings,Dining,14086.65,AUD,Digital Wallet,East India
+TXN000412,2026-06-20,Business,Travel,15705.72,USD,Bank Transfer,Asia-Pacific
+TXN000413,2025-03-20,Savings,Utilities,3508.93,INR,Cash,Europe
+TXN000414,2025-12-20,Credit,Entertainment,19779.01,USD,Debit Card,South India
+TXN000415,2025-05-23,Business,Groceries,21198.82,EUR,Credit Card,West India
+TXN000416,2026-03-13,Business,Groceries,19597.2,USD,Bank Transfer,Europe
+TXN000417,2024-08-18,Checking,Salary,15955.68,INR,Cash,North India
+TXN000418,2026-01-09,Business,Shopping,9677.09,AUD,Bank Transfer,North America
+TXN000419,2024-12-19,Credit,Utilities,427.07,INR,UPI,Central India
+TXN000420,2025-03-17,Savings,Groceries,23717.51,GBP,Cash,Central India
+TXN000421,2026-10-23,Credit,Education,17548.25,INR,Digital Wallet,East India
+TXN000422,2025-07-22,Savings,Healthcare,1984.75,USD,Credit Card,North America
+TXN000423,2026-03-11,Savings,Healthcare,17469.91,USD,UPI,West India
+TXN000424,2024-06-25,Credit,Utilities,11339.76,AUD,UPI,Central India
+TXN000425,2024-12-25,Savings,Groceries,17700.44,INR,Credit Card,Asia-Pacific
+TXN000426,2025-12-11,Business,Shopping,9303.02,EUR,Digital Wallet,South India
+TXN000427,2024-03-01,Business,Education,6806.8,INR,Debit Card,South India
+TXN000428,2026-10-13,Credit,Dining,9009.5,GBP,Cash,East India
+TXN000429,2026-01-23,Checking,Healthcare,19335.49,AUD,Digital Wallet,South India
+TXN000430,2025-04-12,Savings,Groceries,21468.64,INR,Credit Card,North India
+TXN000431,2026-08-24,Business,Education,23006.46,USD,UPI,Europe
+TXN000432,2025-04-04,Business,Travel,10412.25,EUR,Debit Card,South India
+TXN000433,2026-02-02,Savings,Dining,16836.41,INR,Credit Card,West India
+TXN000434,2024-04-04,Credit,Utilities,21926.01,EUR,Debit Card,North America
+TXN000435,2024-06-25,Credit,Groceries,9229.29,EUR,Cash,Central India
+TXN000436,2025-05-11,Credit,Entertainment,14796.36,GBP,Credit Card,West India
+TXN000437,2024-11-04,Savings,Education,607.52,AUD,Debit Card,North India
+TXN000438,2025-11-17,Savings,Education,21226.66,EUR,UPI,West India
+TXN000439,2025-05-02,Credit,Salary,24030.01,USD,Digital Wallet,Central India
+TXN000440,2024-07-09,Savings,Travel,22433.21,AUD,Bank Transfer,North America
+TXN000441,2026-07-27,Savings,Transfer,2398.47,USD,Digital Wallet,Europe
+TXN000442,2024-06-02,Savings,Education,16564.47,USD,Credit Card,Central India
+TXN000443,2025-06-18,Business,Education,17521.13,EUR,Debit Card,Asia-Pacific
+TXN000444,2025-07-10,Checking,Utilities,23589.43,USD,Cash,South India
+TXN000445,2024-11-14,Savings,Shopping,11244.67,EUR,Bank Transfer,South India
+TXN000446,2026-01-03,Checking,Salary,7714.61,EUR,UPI,South India
+TXN000447,2024-11-18,Business,Transfer,1017.84,EUR,Credit Card,South India
+TXN000448,2025-05-23,Business,Education,12841.36,EUR,Debit Card,East India
+TXN000449,2024-03-04,Credit,Salary,13903.28,AUD,Credit Card,South India
+TXN000450,2026-08-04,Savings,Shopping,3045.12,INR,Credit Card,East India
+TXN000451,2025-02-09,Credit,Entertainment,17160.27,INR,Cash,Central India
+TXN000452,2024-06-02,Savings,Utilities,4951.78,GBP,Credit Card,South India
+TXN000453,2025-11-10,Savings,Groceries,23557.59,INR,Credit Card,Europe
+TXN000454,2026-03-19,Credit,Groceries,9574.41,GBP,Credit Card,North America
+TXN000455,2025-03-15,Checking,Healthcare,7003.57,USD,UPI,West India
+TXN000456,2025-08-27,Credit,Education,22070.64,GBP,UPI,South India
+TXN000457,2025-07-26,Credit,Shopping,10486.68,AUD,Credit Card,North India
+TXN000458,2026-02-22,Business,Salary,13617.5,GBP,Debit Card,North America
+TXN000459,2026-03-06,Business,Shopping,661.31,AUD,Credit Card,North India
+TXN000460,2025-07-29,Savings,Salary,13240.51,AUD,Credit Card,East India
+TXN000461,2024-07-24,Checking,Travel,6670.51,INR,Credit Card,Europe
+TXN000462,2025-12-27,Checking,Shopping,5921.41,EUR,Digital Wallet,North America
+TXN000463,2024-02-27,Business,Transfer,14094.53,AUD,Credit Card,Asia-Pacific
+TXN000464,2025-09-24,Checking,Salary,958.71,INR,Credit Card,West India
+TXN000465,2024-02-10,Credit,Groceries,8300.03,AUD,Credit Card,East India
+TXN000466,2025-11-28,Checking,Entertainment,1498.3,USD,Cash,East India
+TXN000467,2024-08-15,Business,Utilities,9346.03,GBP,Cash,South India
+TXN000468,2025-11-20,Business,Entertainment,3419.93,USD,Digital Wallet,Europe
+TXN000469,2026-09-24,Business,Shopping,17682.5,AUD,Digital Wallet,North America
+TXN000470,2025-04-02,Checking,Education,7677.51,EUR,Credit Card,East India
+TXN000471,2024-01-04,Credit,Transfer,819.24,AUD,Debit Card,West India
+TXN000472,2024-08-01,Credit,Shopping,8285.9,INR,Credit Card,North America
+TXN000473,2025-10-16,Checking,Utilities,20543.33,EUR,Bank Transfer,North India
+TXN000474,2025-06-27,Checking,Travel,17332.47,EUR,Debit Card,South India
+TXN000475,2024-01-03,Savings,Education,10961.12,GBP,Credit Card,Europe
+TXN000476,2026-10-06,Credit,Entertainment,13655.14,INR,Bank Transfer,West India
+TXN000477,2024-11-29,Credit,Utilities,19981.87,INR,Debit Card,North India
+TXN000478,2025-10-14,Business,Utilities,1864.27,USD,Bank Transfer,East India
+TXN000479,2024-06-02,Savings,Entertainment,14854.82,AUD,Bank Transfer,North India
+TXN000480,2026-06-02,Checking,Transfer,22244.93,USD,UPI,South India
+TXN000481,2025-11-09,Checking,Travel,10237.9,AUD,Digital Wallet,Central India
+TXN000482,2025-07-30,Business,Travel,2406.94,GBP,Cash,Asia-Pacific
+TXN000483,2024-11-10,Savings,Entertainment,105.35,INR,Debit Card,Asia-Pacific
+TXN000484,2025-02-12,Savings,Groceries,5181.76,EUR,UPI,Asia-Pacific
+TXN000485,2024-08-24,Business,Education,11778.9,EUR,UPI,Europe
+TXN000486,2025-01-13,Business,Education,9241.35,GBP,UPI,Central India
+TXN000487,2026-06-19,Credit,Healthcare,5663.79,EUR,Cash,North India
+TXN000488,2024-11-05,Savings,Utilities,16706.85,AUD,Bank Transfer,West India
+TXN000489,2024-05-04,Credit,Dining,10471.62,AUD,Digital Wallet,Asia-Pacific
+TXN000490,2025-04-27,Credit,Healthcare,1983.09,INR,Cash,East India
+TXN000491,2024-09-03,Credit,Shopping,23727.05,USD,Credit Card,West India
+TXN000492,2024-09-15,Savings,Education,1968.43,GBP,Credit Card,East India
+TXN000493,2025-06-12,Business,Utilities,2184.82,AUD,Bank Transfer,North America
+TXN000494,2025-07-19,Credit,Groceries,19665.9,AUD,Cash,Europe
+TXN000495,2024-08-18,Credit,Shopping,3713.51,AUD,Cash,South India
+TXN000496,2024-08-04,Savings,Healthcare,21688.21,EUR,Bank Transfer,Central India
+TXN000497,2026-02-23,Credit,Transfer,15227.96,INR,Credit Card,Central India
+TXN000498,2026-04-05,Checking,Transfer,15220.3,GBP,UPI,Europe
+TXN000499,2025-11-09,Checking,Groceries,18646.29,EUR,Debit Card,North India
+TXN000500,2025-11-22,Business,Healthcare,7015.86,GBP,Digital Wallet,South India
+TXN000501,2025-04-11,Checking,Healthcare,24355.74,GBP,Debit Card,Central India
+TXN000502,2026-05-03,Savings,Travel,11048.5,GBP,Digital Wallet,Asia-Pacific
+TXN000503,2026-02-04,Savings,Dining,19789.34,INR,Debit Card,Europe
+TXN000504,2024-10-04,Savings,Shopping,4827.16,USD,UPI,West India
+TXN000505,2024-03-08,Credit,Groceries,22951.6,USD,Debit Card,North America
+TXN000506,2026-08-08,Credit,Utilities,17032.55,USD,Debit Card,Asia-Pacific
+TXN000507,2026-07-02,Checking,Salary,14676.14,EUR,Debit Card,East India
+TXN000508,2025-06-13,Savings,Healthcare,695.99,INR,Credit Card,West India
+TXN000509,2025-03-29,Checking,Travel,6734.4,GBP,Cash,North India
+TXN000510,2024-01-19,Credit,Shopping,16187.82,AUD,UPI,West India
+TXN000511,2025-05-31,Business,Healthcare,10600.93,GBP,Debit Card,Asia-Pacific
+TXN000512,2025-05-31,Checking,Salary,7560.61,AUD,Cash,Europe
+TXN000513,2024-07-28,Savings,Dining,24985.74,EUR,Cash,Central India
+TXN000514,2025-09-03,Savings,Salary,1605.29,EUR,Digital Wallet,North America
+TXN000515,2025-07-21,Business,Healthcare,4717.12,AUD,Credit Card,North India
+TXN000516,2026-04-07,Business,Shopping,18034.87,GBP,Debit Card,Central India
+TXN000517,2026-05-07,Credit,Education,18420.94,AUD,Digital Wallet,West India
+TXN000518,2025-12-03,Checking,Dining,15961.46,GBP,Digital Wallet,North America
+TXN000519,2025-09-06,Checking,Dining,4536.59,INR,Bank Transfer,East India
+TXN000520,2025-06-13,Checking,Entertainment,16364.32,USD,Debit Card,West India
+TXN000521,2025-09-20,Credit,Entertainment,9298.34,AUD,Debit Card,Asia-Pacific
+TXN000522,2024-08-29,Credit,Groceries,21661.17,AUD,Cash,South India
+TXN000523,2026-08-25,Checking,Dining,3004.2,GBP,Cash,Central India
+TXN000524,2026-04-26,Savings,Shopping,3442.76,USD,Debit Card,Europe
+TXN000525,2026-07-26,Checking,Entertainment,21561.22,USD,UPI,Asia-Pacific
+TXN000526,2025-11-12,Checking,Entertainment,15866.13,INR,Bank Transfer,Central India
+TXN000527,2025-03-04,Checking,Transfer,19114.45,GBP,UPI,East India
+TXN000528,2026-06-07,Credit,Education,10731.35,GBP,Bank Transfer,North India
+TXN000529,2024-03-18,Checking,Entertainment,23752.21,EUR,Cash,West India
+TXN000530,2024-02-06,Savings,Travel,5664.38,EUR,Debit Card,East India
+TXN000531,2024-07-29,Credit,Dining,14720.88,USD,UPI,North India
+TXN000532,2025-09-02,Business,Salary,18198.52,AUD,Cash,North America
+TXN000533,2026-06-07,Checking,Entertainment,24903.51,GBP,Debit Card,West India
+TXN000534,2024-12-03,Credit,Groceries,5718.17,USD,Credit Card,North India
+TXN000535,2024-12-12,Savings,Entertainment,17780.64,INR,Bank Transfer,Central India
+TXN000536,2024-04-09,Savings,Utilities,16342.65,INR,UPI,South India
+TXN000537,2026-05-03,Credit,Education,3098.64,EUR,Bank Transfer,East India
+TXN000538,2025-02-24,Savings,Healthcare,10527.58,INR,Digital Wallet,Central India
+TXN000539,2024-10-07,Credit,Utilities,12794.5,AUD,UPI,Central India
+TXN000540,2024-08-21,Savings,Salary,4974.18,USD,Debit Card,West India
+TXN000541,2026-01-03,Credit,Healthcare,4017.74,AUD,Bank Transfer,West India
+TXN000542,2026-09-11,Business,Travel,78.42,INR,UPI,Asia-Pacific
+TXN000543,2024-11-01,Savings,Dining,1885.45,INR,Debit Card,West India
+TXN000544,2026-07-24,Business,Healthcare,11612.29,INR,Credit Card,North India
+TXN000545,2025-08-18,Business,Entertainment,10655.62,INR,UPI,North India
+TXN000546,2024-01-20,Checking,Shopping,8223.23,GBP,Cash,Central India
+TXN000547,2024-07-09,Business,Entertainment,4579.91,GBP,Bank Transfer,Asia-Pacific
+TXN000548,2025-07-10,Credit,Salary,19999.48,USD,UPI,East India
+TXN000549,2024-04-30,Checking,Utilities,10406.53,AUD,Bank Transfer,Asia-Pacific
+TXN000550,2025-01-06,Credit,Entertainment,15287.85,USD,Bank Transfer,Asia-Pacific
+TXN000551,2024-08-19,Credit,Salary,1158.85,EUR,Digital Wallet,North America
+TXN000552,2024-01-26,Checking,Entertainment,12982.3,AUD,UPI,Europe
+TXN000553,2025-05-24,Credit,Entertainment,16596.13,GBP,Credit Card,North India
+TXN000554,2024-01-24,Checking,Dining,21222.65,GBP,Credit Card,South India
+TXN000555,2026-10-03,Business,Travel,8279.06,EUR,UPI,West India
+TXN000556,2026-02-14,Credit,Travel,1979.98,GBP,Cash,Asia-Pacific
+TXN000557,2024-06-29,Credit,Salary,7908.38,GBP,Digital Wallet,North India
+TXN000558,2024-07-29,Credit,Education,905.44,AUD,UPI,South India
+TXN000559,2025-09-15,Checking,Salary,23759.37,EUR,UPI,West India
+TXN000560,2026-07-19,Business,Dining,19187.74,AUD,Bank Transfer,North America
+TXN000561,2026-07-15,Savings,Utilities,18985.41,USD,UPI,North America
+TXN000562,2025-12-28,Business,Dining,13054.41,INR,UPI,East India
+TXN000563,2026-10-05,Checking,Education,2682.97,AUD,Credit Card,West India
+TXN000564,2024-09-04,Credit,Travel,11431.58,USD,Digital Wallet,North America
+TXN000565,2024-08-08,Credit,Groceries,23166.4,AUD,UPI,Asia-Pacific
+TXN000566,2026-07-25,Checking,Salary,118.4,INR,Cash,Europe
+TXN000567,2026-09-16,Checking,Transfer,4349.52,USD,UPI,Europe
+TXN000568,2025-10-21,Credit,Education,24487.72,USD,Debit Card,Europe
+TXN000569,2025-12-03,Business,Salary,20121.87,USD,Bank Transfer,Central India
+TXN000570,2025-10-04,Checking,Travel,5250.72,EUR,Digital Wallet,North America
+TXN000571,2024-09-28,Checking,Dining,13566.86,EUR,Digital Wallet,South India
+TXN000572,2025-12-22,Credit,Transfer,14270.25,GBP,Digital Wallet,Central India
+TXN000573,2026-05-15,Savings,Dining,2670.7,GBP,Credit Card,North India
+TXN000574,2024-04-25,Checking,Healthcare,18757.12,USD,Debit Card,Central India
+TXN000575,2024-10-26,Savings,Healthcare,5107.98,AUD,UPI,North America
+TXN000576,2026-07-15,Savings,Transfer,21702.2,AUD,Credit Card,Europe
+TXN000577,2025-05-01,Business,Groceries,23162.86,GBP,Bank Transfer,North America
+TXN000578,2024-04-20,Savings,Healthcare,5085.15,GBP,Credit Card,North America
+TXN000579,2025-02-06,Checking,Healthcare,11225.88,INR,Credit Card,East India
+TXN000580,2024-09-01,Credit,Groceries,10718.41,AUD,Debit Card,East India
+TXN000581,2024-11-25,Business,Groceries,8270.76,USD,UPI,East India
+TXN000582,2025-10-22,Savings,Transfer,21080.07,EUR,Bank Transfer,North America
+TXN000583,2024-05-29,Business,Dining,5506.85,USD,Cash,South India
+TXN000584,2024-11-22,Credit,Dining,13430.53,INR,Debit Card,West India
+TXN000585,2025-03-12,Business,Entertainment,9026.34,USD,Cash,Asia-Pacific
+TXN000586,2024-01-19,Savings,Entertainment,11147.22,AUD,Cash,West India
+TXN000587,2024-03-22,Business,Education,22899.15,INR,Bank Transfer,Central India
+TXN000588,2025-08-02,Savings,Dining,20554.51,EUR,Cash,Asia-Pacific
+TXN000589,2026-09-23,Savings,Healthcare,22458.06,USD,Debit Card,South India
+TXN000590,2024-07-15,Checking,Dining,13334.81,INR,Credit Card,West India
+TXN000591,2026-05-18,Savings,Travel,13448.48,GBP,Digital Wallet,South India
+TXN000592,2024-11-10,Savings,Salary,17924.54,INR,UPI,South India
+TXN000593,2024-04-21,Checking,Healthcare,13956.52,AUD,Credit Card,Central India
+TXN000594,2026-04-14,Credit,Salary,15759.13,GBP,Debit Card,North India
+TXN000595,2026-03-08,Savings,Dining,157.41,AUD,UPI,North India
+TXN000596,2024-05-28,Business,Dining,2662.33,EUR,Cash,South India
+TXN000597,2025-07-30,Credit,Education,9883.88,INR,Bank Transfer,East India
+TXN000598,2025-03-26,Checking,Education,19921.29,AUD,Debit Card,East India
+TXN000599,2025-09-02,Business,Groceries,13842.57,AUD,Credit Card,South India
+TXN000600,2024-03-26,Savings,Transfer,14920.41,AUD,Cash,South India
+TXN000601,2025-09-16,Checking,Entertainment,5301.31,AUD,Credit Card,East India
+TXN000602,2025-01-11,Checking,Transfer,20870.36,USD,UPI,East India
+TXN000603,2024-04-21,Credit,Dining,1837.88,INR,Debit Card,South India
+TXN000604,2025-02-08,Credit,Entertainment,8934.89,USD,UPI,Central India
+TXN000605,2024-05-22,Checking,Entertainment,12151.67,EUR,Cash,Central India
+TXN000606,2024-11-08,Business,Entertainment,23966.89,USD,UPI,North America
+TXN000607,2025-05-19,Checking,Education,6924.23,EUR,Credit Card,North America
+TXN000608,2026-09-09,Credit,Salary,8974.95,EUR,Bank Transfer,South India
+TXN000609,2024-12-25,Savings,Healthcare,21469.25,USD,Cash,West India
+TXN000610,2025-06-23,Savings,Utilities,22303.71,AUD,Digital Wallet,North India
+TXN000611,2026-04-09,Checking,Groceries,13794.33,AUD,Cash,Asia-Pacific
+TXN000612,2024-10-31,Business,Education,5590.43,AUD,Digital Wallet,Central India
+TXN000613,2024-10-01,Credit,Dining,12765.2,GBP,Debit Card,North India
+TXN000614,2025-05-04,Checking,Dining,3517.86,USD,Credit Card,East India
+TXN000615,2026-09-17,Business,Groceries,5478.29,GBP,Credit Card,South India
+TXN000616,2025-06-25,Business,Travel,1079.78,USD,Cash,North America
+TXN000617,2026-03-05,Credit,Salary,22039.98,INR,Digital Wallet,North America
+TXN000618,2024-07-30,Business,Healthcare,14470.0,AUD,Credit Card,Europe
+TXN000619,2026-02-14,Business,Transfer,16336.88,INR,Cash,Central India
+TXN000620,2026-02-09,Checking,Dining,10152.0,EUR,Bank Transfer,Asia-Pacific
+TXN000621,2024-01-14,Checking,Salary,4148.49,INR,Cash,Central India
+TXN000622,2025-03-09,Checking,Shopping,3942.36,AUD,Digital Wallet,South India
+TXN000623,2025-04-16,Credit,Entertainment,18009.19,GBP,Digital Wallet,Asia-Pacific
+TXN000624,2026-09-08,Checking,Transfer,4039.54,GBP,UPI,West India
+TXN000625,2024-03-29,Checking,Transfer,14812.77,USD,Digital Wallet,North India
+TXN000626,2024-10-27,Savings,Shopping,6463.91,USD,Cash,Europe
+TXN000627,2024-02-08,Business,Utilities,5422.67,AUD,Bank Transfer,Asia-Pacific
+TXN000628,2024-12-15,Checking,Education,15024.96,AUD,Credit Card,Central India
+TXN000629,2024-12-09,Business,Salary,14917.37,INR,Credit Card,Europe
+TXN000630,2026-02-28,Checking,Utilities,423.9,AUD,Cash,Europe
+TXN000631,2024-11-02,Savings,Shopping,11901.97,AUD,Cash,North India
+TXN000632,2024-08-28,Savings,Salary,16488.22,AUD,Cash,North India
+TXN000633,2026-06-02,Credit,Entertainment,21871.86,AUD,Bank Transfer,West India
+TXN000634,2026-09-14,Credit,Entertainment,14730.31,AUD,UPI,Europe
+TXN000635,2024-10-01,Business,Salary,19148.81,INR,Debit Card,Europe
+TXN000636,2025-06-11,Checking,Groceries,17731.63,INR,Cash,South India
+TXN000637,2024-01-15,Credit,Travel,17197.29,EUR,Bank Transfer,North America
+TXN000638,2024-08-06,Checking,Education,16292.88,EUR,Debit Card,Europe
+TXN000639,2026-01-18,Business,Education,18876.75,GBP,Cash,Asia-Pacific
+TXN000640,2025-01-01,Business,Dining,13877.23,EUR,Debit Card,North America
+TXN000641,2026-03-26,Checking,Utilities,18697.88,GBP,Digital Wallet,East India
+TXN000642,2024-07-24,Checking,Dining,10020.02,EUR,Cash,North India
+TXN000643,2024-11-25,Credit,Groceries,20111.19,USD,Bank Transfer,Europe
+TXN000644,2024-06-29,Savings,Healthcare,5552.04,INR,Cash,North India
+TXN000645,2026-02-26,Credit,Transfer,16407.82,EUR,Digital Wallet,North India
+TXN000646,2024-12-24,Credit,Salary,277.65,AUD,Debit Card,West India
+TXN000647,2024-03-09,Checking,Transfer,4245.38,INR,Debit Card,West India
+TXN000648,2024-01-01,Checking,Utilities,24920.46,GBP,Debit Card,Europe
+TXN000649,2026-04-10,Checking,Dining,394.01,INR,UPI,Central India
+TXN000650,2025-12-13,Business,Healthcare,5665.12,USD,Bank Transfer,Europe
+TXN000651,2024-01-10,Business,Shopping,10184.29,INR,Cash,South India
+TXN000652,2025-08-25,Business,Utilities,20075.53,EUR,Cash,Central India
+TXN000653,2026-06-25,Credit,Transfer,12095.91,USD,Debit Card,Asia-Pacific
+TXN000654,2026-08-01,Savings,Salary,2915.54,INR,Bank Transfer,West India
+TXN000655,2025-04-15,Business,Education,23886.59,AUD,Cash,North India
+TXN000656,2025-06-23,Checking,Healthcare,2334.31,EUR,UPI,East India
+TXN000657,2026-09-02,Business,Entertainment,5471.97,AUD,Debit Card,East India
+TXN000658,2025-01-24,Credit,Travel,5879.19,USD,Debit Card,West India
+TXN000659,2025-04-14,Checking,Travel,20910.0,EUR,Credit Card,South India
+TXN000660,2024-09-02,Savings,Salary,15349.54,AUD,UPI,Asia-Pacific
+TXN000661,2026-01-30,Business,Salary,22454.05,AUD,Debit Card,Asia-Pacific
+TXN000662,2025-01-09,Business,Education,5560.1,AUD,Credit Card,North India
+TXN000663,2026-05-16,Credit,Dining,823.74,EUR,Bank Transfer,East India
+TXN000664,2026-07-25,Savings,Dining,11507.16,INR,UPI,West India
+TXN000665,2026-02-16,Savings,Entertainment,9046.44,EUR,Credit Card,Central India
+TXN000666,2025-04-30,Business,Salary,23963.59,EUR,Debit Card,East India
+TXN000667,2026-10-18,Credit,Travel,10483.13,EUR,Debit Card,Europe
+TXN000668,2025-07-26,Credit,Shopping,14289.53,AUD,Digital Wallet,West India
+TXN000669,2024-07-23,Business,Travel,13887.95,GBP,Credit Card,East India
+TXN000670,2024-11-02,Credit,Groceries,4423.42,GBP,Credit Card,North America
+TXN000671,2026-09-23,Business,Healthcare,14057.84,AUD,UPI,Europe
+TXN000672,2024-07-21,Checking,Groceries,5394.53,EUR,Bank Transfer,South India
+TXN000673,2026-07-10,Business,Healthcare,9030.44,AUD,Cash,Central India
+TXN000674,2025-12-05,Savings,Education,3039.72,AUD,Credit Card,East India
+TXN000675,2025-08-05,Business,Entertainment,16833.09,GBP,Digital Wallet,Asia-Pacific
+TXN000676,2024-06-09,Credit,Transfer,7170.22,USD,Credit Card,North America
+TXN000677,2026-05-13,Credit,Utilities,1987.01,EUR,Credit Card,North America
+TXN000678,2025-10-10,Business,Healthcare,15138.57,GBP,Debit Card,Asia-Pacific
+TXN000679,2026-01-13,Credit,Education,4191.28,INR,Credit Card,West India
+TXN000680,2025-05-30,Savings,Travel,4181.09,INR,UPI,South India
+TXN000681,2026-08-27,Savings,Groceries,19275.63,AUD,UPI,South India
+TXN000682,2025-06-21,Checking,Utilities,16374.27,GBP,Debit Card,West India
+TXN000683,2025-05-21,Business,Salary,15665.75,USD,Cash,East India
+TXN000684,2024-02-28,Savings,Entertainment,21510.62,EUR,Bank Transfer,Asia-Pacific
+TXN000685,2025-07-11,Credit,Shopping,24238.86,AUD,Credit Card,Asia-Pacific
+TXN000686,2026-06-09,Business,Entertainment,12046.48,USD,UPI,Asia-Pacific
+TXN000687,2025-09-22,Business,Education,6502.58,EUR,UPI,North India
+TXN000688,2024-10-06,Business,Healthcare,11735.26,INR,Digital Wallet,Asia-Pacific
+TXN000689,2026-09-04,Business,Groceries,19149.07,EUR,Cash,West India
+TXN000690,2024-01-15,Business,Travel,10299.28,AUD,Bank Transfer,Europe
+TXN000691,2025-05-26,Checking,Education,20712.39,USD,Debit Card,South India
+TXN000692,2026-05-14,Checking,Dining,19115.81,AUD,Digital Wallet,Central India
+TXN000693,2025-08-06,Business,Education,4708.14,INR,Credit Card,East India
+TXN000694,2025-08-16,Savings,Salary,15447.06,EUR,Digital Wallet,Asia-Pacific
+TXN000695,2025-01-19,Business,Groceries,3812.21,AUD,UPI,East India
+TXN000696,2024-07-28,Business,Healthcare,3134.73,GBP,Digital Wallet,North India
+TXN000697,2025-04-21,Savings,Shopping,377.97,USD,Debit Card,Europe
+TXN000698,2025-09-30,Credit,Entertainment,11597.47,INR,Debit Card,South India
+TXN000699,2024-10-26,Savings,Healthcare,19393.57,INR,Cash,Asia-Pacific
+TXN000700,2025-01-06,Checking,Healthcare,20433.1,INR,UPI,West India
+TXN000701,2026-02-27,Credit,Travel,18443.1,INR,Credit Card,Asia-Pacific
+TXN000702,2024-07-11,Checking,Salary,9734.18,EUR,Debit Card,East India
+TXN000703,2024-03-27,Savings,Healthcare,12035.93,EUR,Credit Card,North America
+TXN000704,2024-04-16,Checking,Utilities,5906.79,GBP,Debit Card,North India
+TXN000705,2024-12-08,Business,Transfer,3000.04,USD,UPI,North India
+TXN000706,2026-08-31,Checking,Entertainment,19272.22,USD,Credit Card,Asia-Pacific
+TXN000707,2024-07-06,Business,Groceries,1503.78,USD,Digital Wallet,South India
+TXN000708,2024-09-14,Credit,Travel,7925.32,AUD,Digital Wallet,North America
+TXN000709,2026-06-17,Checking,Groceries,17234.36,EUR,Digital Wallet,East India
+TXN000710,2025-05-28,Savings,Salary,17668.58,AUD,Debit Card,Asia-Pacific
+TXN000711,2025-01-23,Checking,Dining,8698.14,GBP,Debit Card,East India
+TXN000712,2024-05-21,Checking,Salary,7398.86,EUR,Cash,North America
+TXN000713,2026-07-18,Savings,Dining,9482.3,USD,UPI,North America
+TXN000714,2025-05-04,Business,Utilities,16460.65,AUD,Bank Transfer,West India
+TXN000715,2026-10-15,Checking,Transfer,7085.4,GBP,Digital Wallet,North America
+TXN000716,2024-08-14,Savings,Dining,16475.69,INR,Credit Card,East India
+TXN000717,2024-03-05,Checking,Utilities,12139.4,INR,UPI,Europe
+TXN000718,2026-09-30,Business,Groceries,9165.19,AUD,Digital Wallet,South India
+TXN000719,2024-01-27,Checking,Salary,23210.81,INR,Bank Transfer,North India
+TXN000720,2026-01-09,Credit,Entertainment,19858.3,INR,Cash,Central India
+TXN000721,2024-03-24,Savings,Healthcare,1957.61,USD,Cash,South India
+TXN000722,2024-07-26,Checking,Dining,9639.42,USD,Cash,West India
+TXN000723,2025-01-01,Credit,Utilities,19159.42,AUD,Debit Card,Asia-Pacific
+TXN000724,2026-05-24,Savings,Shopping,19813.62,AUD,Bank Transfer,North America
+TXN000725,2024-11-19,Credit,Entertainment,22563.1,AUD,Debit Card,North America
+TXN000726,2026-04-24,Credit,Entertainment,15214.25,AUD,Cash,West India
+TXN000727,2026-02-07,Business,Entertainment,24041.68,GBP,Bank Transfer,North India
+TXN000728,2024-03-11,Business,Transfer,417.4,USD,Debit Card,North India
+TXN000729,2025-09-07,Checking,Travel,21394.45,INR,Digital Wallet,Central India
+TXN000730,2024-11-12,Savings,Groceries,11514.64,USD,Credit Card,Central India
+TXN000731,2026-01-21,Checking,Travel,6413.53,EUR,UPI,Europe
+TXN000732,2025-03-21,Savings,Entertainment,19824.68,USD,Bank Transfer,South India
+TXN000733,2025-09-07,Savings,Transfer,9544.84,INR,Debit Card,North America
+TXN000734,2026-06-08,Credit,Utilities,21745.96,USD,Digital Wallet,North India
+TXN000735,2026-02-22,Savings,Healthcare,13114.34,EUR,Cash,East India
+TXN000736,2025-10-31,Checking,Shopping,1272.49,GBP,Bank Transfer,South India
+TXN000737,2025-03-30,Credit,Healthcare,19661.34,USD,Credit Card,North America
+TXN000738,2024-06-18,Credit,Transfer,18635.42,AUD,Bank Transfer,Central India
+TXN000739,2024-06-23,Credit,Dining,10867.93,USD,Credit Card,Asia-Pacific
+TXN000740,2025-02-09,Credit,Education,16309.69,USD,Cash,West India
+TXN000741,2025-05-11,Savings,Healthcare,19421.53,EUR,Digital Wallet,South India
+TXN000742,2024-08-18,Credit,Education,9138.04,USD,Debit Card,North America
+TXN000743,2024-02-19,Business,Shopping,24691.42,AUD,Bank Transfer,East India
+TXN000744,2026-06-21,Savings,Travel,5000.13,EUR,Credit Card,South India
+TXN000745,2024-08-18,Savings,Travel,23724.03,USD,Debit Card,North India
+TXN000746,2025-12-04,Savings,Healthcare,11257.04,INR,Debit Card,West India
+TXN000747,2025-03-09,Checking,Dining,13086.41,EUR,Cash,Asia-Pacific
+TXN000748,2024-10-16,Savings,Education,14579.29,AUD,UPI,Central India
+TXN000749,2024-12-14,Savings,Healthcare,5025.39,AUD,Debit Card,North India
+TXN000750,2026-08-10,Savings,Utilities,9722.24,EUR,Digital Wallet,North America
+TXN000751,2024-08-08,Savings,Healthcare,21686.59,GBP,Credit Card,Europe
+TXN000752,2024-07-22,Business,Salary,21670.65,AUD,UPI,East India
+TXN000753,2025-02-11,Credit,Dining,23159.49,INR,UPI,West India
+TXN000754,2025-09-16,Business,Salary,9841.06,USD,UPI,North America
+TXN000755,2025-12-21,Business,Healthcare,5912.76,AUD,Debit Card,North India
+TXN000756,2025-06-11,Credit,Groceries,23603.98,EUR,Credit Card,East India
+TXN000757,2025-11-30,Credit,Shopping,2204.0,GBP,Cash,West India
+TXN000758,2026-05-04,Checking,Transfer,3827.2,EUR,Cash,North America
+TXN000759,2026-07-08,Checking,Travel,16315.29,AUD,Cash,West India
+TXN000760,2024-10-09,Business,Dining,22739.97,GBP,Credit Card,East India
+TXN000761,2025-10-12,Savings,Dining,13328.71,INR,Credit Card,North America
+TXN000762,2024-10-25,Savings,Entertainment,22004.5,GBP,Bank Transfer,Central India
+TXN000763,2026-06-26,Business,Shopping,19479.91,INR,Credit Card,East India
+TXN000764,2024-02-23,Business,Transfer,14180.41,USD,Cash,West India
+TXN000765,2025-04-17,Savings,Entertainment,1996.09,GBP,Credit Card,Asia-Pacific
+TXN000766,2026-02-04,Checking,Education,12291.23,USD,Credit Card,West India
+TXN000767,2025-04-08,Savings,Education,19115.83,INR,Debit Card,Europe
+TXN000768,2025-03-31,Checking,Travel,1662.75,GBP,Cash,Asia-Pacific
+TXN000769,2025-10-27,Credit,Travel,10694.62,INR,Cash,Europe
+TXN000770,2025-10-02,Credit,Transfer,23479.09,AUD,Cash,North India
+TXN000771,2024-08-11,Credit,Salary,20676.98,INR,Credit Card,Europe
+TXN000772,2024-03-21,Credit,Dining,19131.35,INR,Credit Card,Central India
+TXN000773,2026-06-19,Credit,Healthcare,19344.19,EUR,Bank Transfer,East India
+TXN000774,2026-05-15,Business,Transfer,22976.63,AUD,Credit Card,Asia-Pacific
+TXN000775,2026-07-14,Savings,Dining,2838.16,AUD,Digital Wallet,East India
+TXN000776,2026-03-16,Credit,Entertainment,11277.64,USD,Bank Transfer,West India
+TXN000777,2026-07-20,Savings,Healthcare,8108.63,USD,Digital Wallet,South India
+TXN000778,2024-07-05,Savings,Salary,15855.47,INR,Cash,Europe
+TXN000779,2024-11-23,Credit,Dining,9521.37,USD,Debit Card,East India
+TXN000780,2024-11-28,Checking,Shopping,19231.23,INR,Bank Transfer,Central India
+TXN000781,2025-09-25,Credit,Healthcare,15665.06,INR,Credit Card,West India
+TXN000782,2024-01-08,Business,Groceries,11471.48,GBP,Cash,North India
+TXN000783,2026-10-07,Checking,Travel,14725.67,GBP,Bank Transfer,Europe
+TXN000784,2026-06-23,Savings,Transfer,15006.55,USD,Cash,Central India
+TXN000785,2025-03-01,Savings,Shopping,3714.92,EUR,UPI,East India
+TXN000786,2024-03-07,Business,Entertainment,23010.41,INR,UPI,Europe
+TXN000787,2024-12-31,Checking,Healthcare,15281.13,AUD,Cash,East India
+TXN000788,2026-07-21,Business,Groceries,2337.23,EUR,Debit Card,North America
+TXN000789,2026-02-15,Savings,Education,21084.31,INR,Debit Card,Asia-Pacific
+TXN000790,2024-10-02,Savings,Healthcare,8236.92,GBP,Cash,West India
+TXN000791,2025-03-04,Savings,Utilities,14288.46,AUD,UPI,Asia-Pacific
+TXN000792,2025-08-11,Credit,Transfer,21196.47,EUR,Cash,North America
+TXN000793,2024-09-22,Credit,Dining,18232.33,GBP,Bank Transfer,East India
+TXN000794,2025-04-21,Business,Travel,49.51,INR,Bank Transfer,South India
+TXN000795,2025-02-28,Credit,Education,1146.85,EUR,Cash,West India
+TXN000796,2024-01-24,Checking,Healthcare,6367.89,INR,Debit Card,Central India
+TXN000797,2025-10-25,Savings,Utilities,17149.04,EUR,Bank Transfer,North India
+TXN000798,2024-12-25,Checking,Entertainment,20847.29,GBP,Bank Transfer,North India
+TXN000799,2024-10-05,Credit,Shopping,15683.74,AUD,Debit Card,Asia-Pacific
+TXN000800,2026-04-27,Savings,Dining,7490.6,EUR,Cash,North India
+TXN000801,2025-03-02,Business,Entertainment,1664.66,USD,Debit Card,North India
+TXN000802,2025-11-25,Credit,Dining,21061.72,AUD,Cash,Europe
+TXN000803,2025-01-18,Savings,Healthcare,17634.6,EUR,Digital Wallet,North India
+TXN000804,2025-07-10,Credit,Utilities,12431.39,USD,Debit Card,Asia-Pacific
+TXN000805,2025-09-11,Checking,Dining,7564.93,INR,Debit Card,North India
+TXN000806,2025-02-17,Savings,Salary,12654.81,GBP,Cash,East India
+TXN000807,2025-01-24,Business,Salary,18313.7,AUD,Debit Card,North America
+TXN000808,2024-10-20,Savings,Dining,16921.17,USD,Credit Card,North India
+TXN000809,2026-07-29,Credit,Dining,2904.74,EUR,UPI,South India
+TXN000810,2025-11-13,Credit,Groceries,2586.54,EUR,UPI,Central India
+TXN000811,2025-03-05,Business,Travel,4821.72,EUR,Cash,North America
+TXN000812,2026-06-22,Savings,Healthcare,3741.52,EUR,UPI,North India
+TXN000813,2024-07-28,Checking,Dining,8764.45,EUR,Debit Card,East India
+TXN000814,2025-08-03,Checking,Shopping,1790.36,AUD,Debit Card,Asia-Pacific
+TXN000815,2024-04-13,Checking,Groceries,11773.68,INR,UPI,Europe
+TXN000816,2024-04-20,Savings,Education,9804.0,AUD,Cash,Asia-Pacific
+TXN000817,2025-12-29,Business,Entertainment,20437.88,AUD,UPI,Asia-Pacific
+TXN000818,2024-09-26,Savings,Salary,2440.6,EUR,Digital Wallet,Asia-Pacific
+TXN000819,2026-08-21,Checking,Travel,3601.6,AUD,Debit Card,North America
+TXN000820,2026-03-13,Checking,Entertainment,19721.58,EUR,Bank Transfer,Asia-Pacific
+TXN000821,2024-03-02,Savings,Salary,2831.05,GBP,Bank Transfer,East India
+TXN000822,2025-08-01,Business,Transfer,14371.21,AUD,UPI,Europe
+TXN000823,2024-08-07,Business,Dining,16239.79,EUR,Cash,Asia-Pacific
+TXN000824,2026-03-31,Credit,Travel,15525.66,AUD,Credit Card,Asia-Pacific
+TXN000825,2026-02-25,Savings,Entertainment,5213.87,AUD,Bank Transfer,Europe
+TXN000826,2025-12-01,Checking,Shopping,16568.68,INR,Digital Wallet,Asia-Pacific
+TXN000827,2024-08-22,Credit,Entertainment,13881.64,GBP,Credit Card,Central India
+TXN000828,2026-04-11,Savings,Transfer,2727.53,AUD,Bank Transfer,North America
+TXN000829,2026-10-09,Savings,Utilities,5448.12,USD,Cash,North India
+TXN000830,2024-10-27,Checking,Salary,13286.08,GBP,Cash,Asia-Pacific
+TXN000831,2025-02-04,Checking,Entertainment,7500.39,EUR,Bank Transfer,North America
+TXN000832,2024-07-01,Savings,Transfer,24660.68,GBP,Credit Card,Central India
+TXN000833,2024-05-07,Business,Dining,24197.81,INR,Digital Wallet,North America
+TXN000834,2024-08-12,Business,Groceries,5888.68,AUD,Bank Transfer,North America
+TXN000835,2026-02-22,Credit,Education,10885.4,USD,Digital Wallet,East India
+TXN000836,2026-08-30,Checking,Travel,13889.99,EUR,Bank Transfer,East India
+TXN000837,2025-08-13,Checking,Shopping,299.95,INR,Credit Card,Asia-Pacific
+TXN000838,2026-06-13,Checking,Utilities,3439.13,GBP,Bank Transfer,Europe
+TXN000839,2025-01-03,Credit,Dining,10608.88,GBP,Bank Transfer,North America
+TXN000840,2025-04-07,Checking,Education,15118.29,AUD,Bank Transfer,West India
+TXN000841,2026-10-24,Business,Education,23164.85,AUD,Debit Card,North India
+TXN000842,2024-03-18,Credit,Entertainment,2837.98,GBP,Digital Wallet,South India
+TXN000843,2024-10-17,Business,Salary,12928.57,AUD,Cash,South India
+TXN000844,2025-05-17,Credit,Utilities,17105.01,AUD,Cash,Central India
+TXN000845,2024-04-18,Business,Dining,19465.39,GBP,Bank Transfer,Asia-Pacific
+TXN000846,2025-11-09,Credit,Entertainment,24014.93,EUR,Debit Card,East India
+TXN000847,2024-03-13,Business,Transfer,6518.47,GBP,Cash,East India
+TXN000848,2024-04-15,Business,Transfer,692.18,GBP,UPI,East India
+TXN000849,2024-06-06,Business,Healthcare,3322.14,EUR,Debit Card,Central India
+TXN000850,2024-01-30,Savings,Transfer,4373.6,AUD,Digital Wallet,East India
+TXN000851,2026-07-03,Business,Shopping,6538.7,USD,Bank Transfer,East India
+TXN000852,2024-03-08,Business,Utilities,24183.97,AUD,Credit Card,Asia-Pacific
+TXN000853,2026-04-25,Credit,Travel,16520.08,USD,Credit Card,North America
+TXN000854,2024-04-21,Business,Utilities,1322.55,GBP,Bank Transfer,Asia-Pacific
+TXN000855,2025-09-09,Credit,Dining,5849.2,GBP,Bank Transfer,Central India
+TXN000856,2024-10-24,Credit,Groceries,7226.92,GBP,Bank Transfer,North America
+TXN000857,2024-03-25,Savings,Dining,15939.23,GBP,Cash,Central India
+TXN000858,2025-11-17,Business,Healthcare,20059.89,EUR,Digital Wallet,Europe
+TXN000859,2026-08-02,Checking,Transfer,19264.73,AUD,Debit Card,East India
+TXN000860,2025-10-03,Savings,Groceries,20793.92,INR,Bank Transfer,South India
+TXN000861,2024-07-31,Credit,Entertainment,5493.21,EUR,Debit Card,West India
+TXN000862,2024-03-10,Savings,Transfer,2307.61,AUD,Digital Wallet,West India
+TXN000863,2024-09-06,Savings,Utilities,21412.46,USD,Bank Transfer,East India
+TXN000864,2024-08-15,Checking,Healthcare,7371.27,INR,Digital Wallet,Asia-Pacific
+TXN000865,2025-07-20,Credit,Entertainment,6440.84,INR,Debit Card,North India
+TXN000866,2026-02-22,Credit,Entertainment,24899.0,EUR,Debit Card,East India
+TXN000867,2026-06-21,Savings,Salary,24485.76,USD,Cash,Europe
+TXN000868,2024-12-31,Credit,Utilities,3605.38,GBP,Credit Card,South India
+TXN000869,2026-06-23,Business,Utilities,881.17,INR,Cash,Central India
+TXN000870,2026-07-02,Savings,Salary,3729.87,INR,UPI,Europe
+TXN000871,2025-06-29,Checking,Entertainment,22616.39,AUD,UPI,Asia-Pacific
+TXN000872,2026-09-06,Credit,Education,21102.79,INR,Cash,West India
+TXN000873,2024-01-07,Credit,Salary,3038.88,AUD,Debit Card,North America
+TXN000874,2025-09-12,Credit,Groceries,15810.49,INR,Debit Card,North America
+TXN000875,2024-06-13,Credit,Healthcare,16198.34,USD,Cash,North India
+TXN000876,2026-02-25,Checking,Healthcare,17400.1,INR,Digital Wallet,North America
+TXN000877,2026-09-23,Savings,Salary,18385.75,USD,UPI,West India
+TXN000878,2024-02-21,Checking,Salary,9725.3,AUD,Digital Wallet,Central India
+TXN000879,2026-10-20,Credit,Groceries,935.7,INR,Debit Card,North India
+TXN000880,2026-04-10,Savings,Travel,20179.52,AUD,Bank Transfer,East India
+TXN000881,2025-04-22,Savings,Groceries,18389.14,GBP,Digital Wallet,North India
+TXN000882,2026-08-23,Savings,Travel,17535.41,USD,UPI,East India
+TXN000883,2024-04-12,Business,Utilities,11410.05,USD,Cash,South India
+TXN000884,2024-08-05,Savings,Salary,14878.49,AUD,Credit Card,South India
+TXN000885,2025-02-19,Credit,Entertainment,20289.91,GBP,Debit Card,South India
+TXN000886,2024-10-08,Business,Travel,19108.05,AUD,Credit Card,North America
+TXN000887,2024-05-09,Savings,Healthcare,3539.51,GBP,Credit Card,North America
+TXN000888,2024-12-03,Credit,Travel,23142.63,INR,Credit Card,South India
+TXN000889,2026-02-09,Checking,Groceries,21991.88,INR,UPI,North India
+TXN000890,2025-01-02,Savings,Transfer,22174.01,GBP,Digital Wallet,Asia-Pacific
+TXN000891,2024-09-16,Checking,Shopping,15999.24,AUD,Bank Transfer,Europe
+TXN000892,2025-05-04,Checking,Transfer,17294.92,AUD,Credit Card,Asia-Pacific
+TXN000893,2024-06-29,Business,Entertainment,10475.46,AUD,Credit Card,West India
+TXN000894,2024-08-28,Savings,Transfer,9053.91,AUD,Cash,West India
+TXN000895,2026-08-08,Checking,Healthcare,1336.19,INR,Credit Card,Asia-Pacific
+TXN000896,2026-10-15,Checking,Shopping,16756.86,INR,UPI,North America
+TXN000897,2025-08-06,Checking,Education,6292.03,AUD,Bank Transfer,North India
+TXN000898,2024-08-01,Savings,Dining,4405.43,INR,Bank Transfer,South India
+TXN000899,2024-05-25,Checking,Salary,14821.74,EUR,Bank Transfer,West India
+TXN000900,2025-10-29,Checking,Utilities,8160.04,INR,Credit Card,Europe
+TXN000901,2025-02-13,Credit,Travel,1847.51,AUD,Bank Transfer,North India
+TXN000902,2026-06-11,Checking,Travel,23197.9,GBP,Credit Card,Europe
+TXN000903,2026-02-03,Checking,Salary,17998.33,EUR,Debit Card,West India
+TXN000904,2025-11-18,Checking,Groceries,17308.34,INR,Debit Card,East India
+TXN000905,2024-08-15,Credit,Salary,10461.41,EUR,Credit Card,Central India
+TXN000906,2024-11-17,Checking,Transfer,24253.69,USD,UPI,Europe
+TXN000907,2026-09-28,Checking,Transfer,11842.49,GBP,Debit Card,North India
+TXN000908,2026-05-26,Checking,Travel,8189.13,AUD,Credit Card,East India
+TXN000909,2024-01-11,Credit,Groceries,1011.07,GBP,Digital Wallet,North India
+TXN000910,2026-05-21,Credit,Salary,20244.82,INR,Bank Transfer,Asia-Pacific
+TXN000911,2025-05-07,Savings,Dining,18829.44,GBP,Credit Card,East India
+TXN000912,2026-01-04,Business,Travel,16194.53,INR,UPI,Asia-Pacific
+TXN000913,2025-09-16,Checking,Salary,21449.47,AUD,UPI,Asia-Pacific
+TXN000914,2026-08-07,Checking,Education,4631.79,EUR,Digital Wallet,Asia-Pacific
+TXN000915,2024-01-03,Savings,Education,22336.93,EUR,Cash,North India
+TXN000916,2025-08-30,Credit,Healthcare,17454.39,AUD,Cash,West India
+TXN000917,2024-06-14,Business,Groceries,12873.26,EUR,UPI,South India
+TXN000918,2026-02-23,Business,Salary,15482.14,EUR,Debit Card,East India
+TXN000919,2024-05-17,Checking,Shopping,24531.48,USD,Cash,South India
+TXN000920,2026-09-06,Checking,Travel,8018.39,EUR,Cash,Europe
+TXN000921,2025-07-21,Savings,Utilities,9326.62,GBP,Bank Transfer,South India
+TXN000922,2026-08-20,Business,Salary,15527.57,INR,Credit Card,Asia-Pacific
+TXN000923,2024-06-27,Savings,Education,22449.67,EUR,UPI,South India
+TXN000924,2024-12-03,Business,Utilities,17430.08,GBP,Credit Card,West India
+TXN000925,2024-02-16,Business,Education,24239.67,AUD,Credit Card,Asia-Pacific
+TXN000926,2025-12-11,Credit,Salary,18445.35,INR,Debit Card,West India
+TXN000927,2024-05-08,Savings,Travel,20875.34,AUD,Digital Wallet,North America
+TXN000928,2026-04-23,Business,Entertainment,12158.85,AUD,Cash,Asia-Pacific
+TXN000929,2026-07-26,Business,Transfer,3307.54,EUR,Credit Card,Central India
+TXN000930,2025-04-09,Credit,Entertainment,24268.39,INR,Credit Card,North America
+TXN000931,2025-08-05,Credit,Shopping,15469.57,USD,Digital Wallet,Central India
+TXN000932,2025-01-08,Checking,Shopping,4039.76,INR,UPI,North America
+TXN000933,2024-09-16,Credit,Healthcare,9248.11,USD,Cash,North India
+TXN000934,2025-10-11,Business,Shopping,9329.14,AUD,Credit Card,Central India
+TXN000935,2024-09-05,Savings,Education,23277.41,USD,Bank Transfer,North America
+TXN000936,2024-11-15,Savings,Dining,24390.27,EUR,Digital Wallet,Central India
+TXN000937,2026-08-28,Business,Transfer,16675.52,AUD,Digital Wallet,Asia-Pacific
+TXN000938,2025-11-24,Savings,Salary,22505.36,USD,Digital Wallet,South India
+TXN000939,2025-09-22,Savings,Education,15441.87,USD,Bank Transfer,North America
+TXN000940,2024-07-08,Business,Groceries,15207.7,USD,Cash,West India
+TXN000941,2025-07-23,Checking,Groceries,2098.9,GBP,Digital Wallet,South India
+TXN000942,2026-03-18,Checking,Salary,7950.77,AUD,Cash,North India
+TXN000943,2026-01-09,Credit,Shopping,17901.93,GBP,Debit Card,Europe
+TXN000944,2026-02-02,Savings,Healthcare,8629.56,EUR,Bank Transfer,South India
+TXN000945,2025-03-17,Credit,Education,20094.1,EUR,Credit Card,Europe
+TXN000946,2026-04-28,Checking,Transfer,14952.41,USD,Credit Card,Central India
+TXN000947,2026-08-30,Business,Utilities,23329.49,AUD,Bank Transfer,South India
+TXN000948,2024-01-14,Credit,Healthcare,10368.71,AUD,Bank Transfer,East India
+TXN000949,2025-02-12,Checking,Education,7243.68,GBP,UPI,Central India
+TXN000950,2025-09-14,Credit,Dining,18499.0,USD,UPI,North India
+TXN000951,2024-11-11,Business,Healthcare,23901.1,GBP,UPI,Central India
+TXN000952,2026-05-04,Checking,Salary,22670.76,USD,UPI,South India
+TXN000953,2025-07-21,Credit,Utilities,14976.29,EUR,Cash,Asia-Pacific
+TXN000954,2026-06-12,Business,Salary,24356.73,INR,Debit Card,North India
+TXN000955,2025-06-15,Checking,Transfer,1472.17,EUR,Bank Transfer,East India
+TXN000956,2026-01-01,Checking,Groceries,6824.03,GBP,Digital Wallet,North America
+TXN000957,2024-04-09,Business,Healthcare,13245.01,INR,Cash,West India
+TXN000958,2025-01-10,Savings,Transfer,18818.19,AUD,Debit Card,North America
+TXN000959,2025-09-08,Business,Entertainment,2404.88,AUD,Debit Card,East India
+TXN000960,2024-01-27,Checking,Dining,7042.63,GBP,Bank Transfer,North America
+TXN000961,2024-11-29,Savings,Travel,3872.33,USD,Credit Card,South India
+TXN000962,2026-05-04,Credit,Utilities,2922.98,USD,UPI,Asia-Pacific
+TXN000963,2025-12-14,Business,Entertainment,3483.96,GBP,Cash,North America
+TXN000964,2024-12-18,Business,Groceries,18614.06,INR,Credit Card,East India
+TXN000965,2024-10-18,Checking,Healthcare,3142.35,USD,UPI,Europe
+TXN000966,2024-08-16,Savings,Groceries,19369.56,GBP,UPI,West India
+TXN000967,2024-08-08,Savings,Dining,14833.47,GBP,UPI,Central India
+TXN000968,2024-03-29,Savings,Healthcare,16692.98,INR,UPI,West India
+TXN000969,2025-02-13,Checking,Entertainment,741.19,USD,Digital Wallet,Central India
+TXN000970,2025-12-13,Business,Shopping,21379.9,AUD,Credit Card,South India
+TXN000971,2024-07-21,Savings,Dining,5432.78,USD,Debit Card,East India
+TXN000972,2024-01-09,Savings,Travel,23012.72,GBP,Debit Card,East India
+TXN000973,2026-06-19,Savings,Shopping,20870.21,GBP,Bank Transfer,West India
+TXN000974,2025-04-11,Credit,Utilities,19037.62,EUR,UPI,Asia-Pacific
+TXN000975,2024-08-13,Checking,Salary,19059.22,EUR,Cash,North India
+TXN000976,2024-06-17,Business,Salary,2901.91,EUR,Bank Transfer,Central India
+TXN000977,2026-06-28,Checking,Dining,10187.98,GBP,Credit Card,South India
+TXN000978,2026-09-01,Business,Shopping,329.52,GBP,Digital Wallet,South India
+TXN000979,2026-03-22,Credit,Dining,16467.12,INR,UPI,East India
+TXN000980,2026-03-19,Credit,Transfer,24439.5,USD,UPI,North America
+TXN000981,2025-02-11,Business,Travel,14878.07,GBP,UPI,West India
+TXN000982,2026-05-19,Credit,Healthcare,19122.78,AUD,Cash,Central India
+TXN000983,2026-03-30,Business,Salary,16670.26,GBP,Bank Transfer,Central India
+TXN000984,2024-10-28,Credit,Utilities,3063.53,GBP,Bank Transfer,West India
+TXN000985,2024-10-02,Savings,Utilities,18447.58,INR,Bank Transfer,North India
+TXN000986,2025-01-01,Credit,Transfer,16983.32,USD,Debit Card,South India
+TXN000987,2024-06-05,Credit,Salary,5056.27,GBP,Bank Transfer,Central India
+TXN000988,2025-12-04,Savings,Groceries,24767.88,INR,Bank Transfer,Asia-Pacific
+TXN000989,2025-10-06,Credit,Salary,11496.81,INR,Credit Card,Central India
+TXN000990,2024-12-02,Credit,Education,3370.86,GBP,Bank Transfer,South India
+TXN000991,2026-10-01,Credit,Salary,14060.76,USD,Cash,North India
+TXN000992,2026-03-12,Business,Salary,14780.22,GBP,Cash,North America
+TXN000993,2025-08-05,Business,Groceries,713.39,INR,Credit Card,North America
+TXN000994,2025-12-15,Savings,Entertainment,9520.53,GBP,Debit Card,North America
+TXN000995,2026-04-23,Business,Groceries,16534.39,USD,Credit Card,Central India
+TXN000996,2024-06-22,Savings,Healthcare,2870.64,USD,UPI,North America
+TXN000997,2024-03-17,Credit,Education,14205.55,GBP,Debit Card,North India
+TXN000998,2026-08-19,Savings,Entertainment,9449.66,GBP,Debit Card,South India
+TXN000999,2026-09-27,Savings,Travel,8405.83,AUD,Digital Wallet,North America
+TXN001000,2024-12-07,Business,Entertainment,24236.0,USD,Bank Transfer,South India
